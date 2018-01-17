@@ -19,6 +19,8 @@ public class gredmarkah {
         
         System.out.print("Masukan markah Bahasa Melayu anda :");
         BM=input.nextInt();
+         System.out.print("Masukan markah Bahasa Melayu anda :");
+        BM=input.nextInt();
     
         System.out.print("Masukkan markah Bahasa Inggeris anda : ");
         BI=input.nextInt();
